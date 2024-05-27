@@ -29,7 +29,6 @@
     "url": "https://github.com/BrunoKaike/next14-hematoatlas/issues",
     "email": "brunokaike2014@gmail.com"
   },
-
   "dependencies": {
     "@clerk/nextjs": "^4.30.0",
     "@formfacade/embed-react": "^1.0.4",

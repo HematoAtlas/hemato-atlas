@@ -256,6 +256,13 @@ export default function Example() {
                   Sobre nós
                   </a>
                 </div>
+                <div className="flex w-full lg:gap-x-1 items-center py-2">
+                  <StarIcon className="h-10 w-10 pr-2 flex-none text-rose-500" aria-hidden="true"></StarIcon>
+                  <a href="/form" className="text-lg font-medium leading-6 text-neutral-600 relative">
+                  
+                  Nos Avalie
+                  </a>
+                </div>
               </div>
               <div className="py-6">
                 <ClerkLoading>
