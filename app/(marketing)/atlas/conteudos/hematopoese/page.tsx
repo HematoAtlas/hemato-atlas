@@ -119,20 +119,6 @@ const ArticlePage: React.FC = () => {
           </section>
           <section>
             <Separator className="mb-8 mt-8 h-0.5 rounded-full" />
-            <h2 className="text-2xl font-bold text-gray-800 dark:text-white my-4">Desenvolvimento Embrionário da Hematopoese</h2>
-            <p className="indent-8 not-format text-base text-justify">
-              Em humanos, o processo de hematopoese tem início aproximadamente <strong>trinta dias após a formação do embrião</strong>. Fases principais:
-            </p>
-            <ul className="list-disc ml-12 text-base">
-              <li><strong>Fase primitiva:</strong> CTHs no saco vitelínico, capacidade de gerar apenas eritrócitos.</li>
-              <li><strong>Fase definitiva/adulta:</strong> surge na quarta semana de gestação, com CTHs gerando todas as linhagens hematopoéticas e autorrenovação, localizada na mesoderme (regiões da Aorta-Gônadas-Mesonefro - AGM).</li>
-            </ul>
-            <p className="indent-8 not-format text-base text-justify">
-              Durante a vida intrauterina, por volta da <strong>quinta semana de gestação</strong>, a hematopoese migra da AGM para a <strong>placenta e o fígado fetal</strong>. Posteriormente, por volta da <strong>décima segunda semana de gestação</strong>, a <strong>medula óssea</strong> torna-se o principal local de produção de células hematopoéticas. Após o nascimento, a medula óssea assume exclusivamente essa função, embora em alguns casos patológicos, possa ocorrer <strong>metaplasia</strong>, que é a expansão do tecido hematopoético para regiões extramedulares, como baço e fígado.
-            </p>
-          </section>
-          <section>
-            <Separator className="mb-8 mt-8 h-0.5 rounded-full" />
             <h2 className="text-2xl font-bold text-gray-800 dark:text-white my-4">Regulação Molecular da Hematopoese</h2>
             <p className="indent-8 not-format text-base text-justify">
               A hematopoese começa com a divisão da célula-tronco em duas, uma das quais se auto renova enquanto a outra se compromete com a diferenciação. Essas células progenitoras, comprometidas de forma precoce, expressam baixos níveis de fatores de transcrição que as direcionam para linhagens específicas. A escolha da linhagem de diferenciação pode ser influenciada tanto por alocação aleatória quanto por sinais externos recebidos pelas células progenitoras. Diversos fatores de transcrição regulam a sobrevivência das células-tronco, como <strong>SCL</strong>, <strong>GATA-2</strong> e <strong>NOTCH-1</strong>, enquanto outros fatores estão envolvidos na diferenciação para as principais linhagens celulares. Por exemplo, <strong>PU.1</strong> e a família <strong>CEBP</strong> direcionam células para a linhagem mielóide leucocitária, enquanto <strong>GATA-2</strong>, seguido por <strong>GATA-1</strong> e <strong>FOG-1</strong>, desempenham um papel crucial na diferenciação eritropoética e megacariocítica. Esses fatores de transcrição interagem de forma que o fortalecimento de um programa de transcrição pode suprimir o de outra linhagem. Os fatores de transcrição induzem a síntese de proteínas específicas para cada linhagem celular. Por exemplo, os genes específicos para a síntese de globina e heme nas células eritróides possuem sítios de ligação para GATA-1.

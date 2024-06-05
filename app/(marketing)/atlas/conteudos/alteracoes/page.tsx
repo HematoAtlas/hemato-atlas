@@ -92,15 +92,6 @@ const ArticlePage: React.FC = () => {
                   <strong className='text-gray-900 not-format'>Figura 6.</strong> Em destaque presença de Dacriócitos (em lágrima).
                 </figcaption>
               </figure>
-
-              <div className='flex gap-x-8'>
-                <figcaption className='text-xs mx-auto max-w-6xl text-justify not-format'>
-                  <strong className='text-gray-900 not-format'>Figura 7.</strong> Em destaque presença de Eritrócito normal (normócito).
-                </figcaption>
-                <figcaption className='text-xs mx-auto max-w-6xl text-justify not-format'>
-                  <strong className='text-gray-900 not-format'>Figura 8.</strong> Em destaque presença de Dacriócitos (em lágrima).
-                </figcaption>
-              </div>
               <li><strong>Drepanócito (falciforme):</strong> Essas células são observadas nas doenças falciformes. A desoxi-hemoglobina S tem propensão a formar polímeros que se organizam em fibras paralelas, as quais tencionam a membrana do eritrócito, levando-o a adquirir uma forma de foice ou crescente, característica dessas condições.</li>
               <figure className='max-w-7xl my-8'>
                 <img className='not-format h-auto mx-auto max-w-full rounded-lg'
@@ -326,17 +317,17 @@ const ArticlePage: React.FC = () => {
                 <strong className='text-gray-900 not-format'>Figura 26.</strong> Presença de célula Flower.
               </figcaption>
             </figure>
-            <h3 className=" indent-8 text-2xl font-bold text-gray-800 dark:text-white my-4">Cristais da morte</h3>
+            <h3 className=" indent-8 text-2xl font-bold text-gray-800 dark:text-white my-4">Cristais Críticos</h3>
             <p className="indent-8 not-format text-base text-justify">
             Inclusões azul-esverdeadas brilhantes no citoplasma de neutrófilos, formadas pela liberação de lipofuscina, um pigmento rico em gordura, devido ao desgaste das células do fígado. Esses cristais se tornam visíveis no esfregaço sanguíneo e coloração da lâmina.
             </p>
             <figure className='max-w-7xl my-8'>
               <img className='not-format h-auto mx-auto max-w-full rounded-lg'
                 src="/img_conteudos/Cristal da morte.png"
-                alt="Em destaque presença de Cristal da morte"
+                alt="Em destaque presença de Cristal Críticos"
               />
               <figcaption className='text-xs mx-auto max-w-6xl text-center not-format align-center'>
-                <strong className='text-gray-900 not-format'>Figura 27.</strong> Em destaque presença de Cristal da morte.
+                <strong className='text-gray-900 not-format'>Figura 27.</strong> Em destaque presença de Cristal Críticos.
               </figcaption>
             </figure>
           </section>
