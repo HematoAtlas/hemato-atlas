@@ -31,6 +31,7 @@ export const Sidebar = ({ className }: SidebarProps) => {
 
       <div className="flex flex-1 flex-col gap-y-2 ">
         <SidebarItem label="Voltar" href="/" iconSrc="/book.png" />
+        <SidebarItem label="Conteúdos" href="/atlas" iconSrc="/book.png" />
         <SidebarItem label="Exercícios" href="/learn" iconSrc="/online-test.png" />        
         <SidebarItem
           label="Ranking"

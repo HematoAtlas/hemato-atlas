@@ -9,6 +9,7 @@ import {
   BoltIcon,
   ShoppingBagIcon,
   StarIcon,
+  BookOpenIcon,
 } from '@heroicons/react/24/outline'
 
 import { Button } from "@/components/ui/button";
@@ -23,6 +24,8 @@ const getIconByLabel = (label: string) => {
   switch (label) {
     case 'Voltar':
       return <ArrowUturnLeftIcon className="h-8 w-8 flex-none text-rose-500 mr-3" aria-hidden="true" />;
+    case 'Conteúdos':
+      return <BookOpenIcon className="h-8 w-8 flex-none text-rose-500 mr-3" aria-hidden="true" />;
     case 'Exercícios':
       return <PencilSquareIcon className="h-8 w-8 flex-none text-rose-500 mr-3" aria-hidden="true" />;
     case 'Ranking':
