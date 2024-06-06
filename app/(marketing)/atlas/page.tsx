@@ -54,7 +54,7 @@ const AtlasPage = () => {
 
   return (
     <div className="mx-auto h-full max-w-[1212px] py-10 px-3">
-      <div className="flex justify-center mb-4">
+      <div className="flex flex-wrap justify-center mb-4">
         <div className="items-center">
           <h1 className="text-2xl font-bold text-neutral-700">Conteúdos por Tema</h1>
           
