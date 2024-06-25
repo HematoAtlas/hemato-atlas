@@ -1,6 +1,8 @@
 # HematoAtlas
 
-![HematoAtlas Logo](public/hematologo.png)
+<p align="center">
+  <img src="public/hematologo.png" alt="HematoAtlas Logo">
+</p>
 
 ## Plataforma de Estudo em Hematologia
 
