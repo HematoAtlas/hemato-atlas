@@ -1,6 +1,6 @@
 # HematoAtlas
 
-![HematoAtlas Logo](hemato-atlas/blob/main/public/hematologo.png)
+![HematoAtlas Logo](public/hematologo.png)
 
 ## Plataforma de Estudo em Hematologia
 
